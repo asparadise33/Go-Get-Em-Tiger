@@ -1,0 +1,47 @@
+[{
+  "model": "tigerapi.habit",
+  "pk": 1,
+  "fields":{
+    "user":1,
+    "habititle":2,
+    "frequency":1,
+    "notes":"Party more."
+  }
+},
+
+
+{
+  "model": "tigerapi.habit",
+  "pk": 2,
+  "fields":{
+    "user":1,
+    "habititle":1,
+    "frequency":2,
+    "notes":"Yoga, yoga, yoga."
+  }
+},
+
+
+{
+  "model": "tigerapi.habit",
+  "pk": 3,
+  "fields":{
+    "user":2,
+    "habititle":4,
+    "frequency":1,
+    "notes":"Being the best."
+  }
+},
+
+
+{
+  "model": "tigerapi.habit",
+  "pk": 4,
+  "fields":{
+    "user":2,
+    "habititle":2,
+    "frequency":2,
+    "notes":"Make a glorious album."
+  }
+}
+]

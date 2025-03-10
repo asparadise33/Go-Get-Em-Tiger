@@ -1,0 +1,21 @@
+[{
+  "model": "tigerapi.frequency",
+  "pk": 1,
+  "fields":{
+    "habit_status":"Scheduled",
+    "habit_occurred":"2025-03-05",
+    "notes":"You can do it!"
+  }
+},
+
+
+{
+  "model": "tigerapi.frequency",
+  "pk": 2,
+  "fields":{
+    "habit_status":"Completed",
+    "habit_occurred":"2025-03-03",
+    "notes":"Done Did it!"
+  }
+}
+]

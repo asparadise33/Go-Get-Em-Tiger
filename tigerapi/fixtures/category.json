@@ -1,0 +1,35 @@
+[{
+  "model": "tigerapi.category",
+  "pk": 1,
+  "fields":{
+    "name_of_category":"Wellness"
+  }
+},
+
+
+{
+  "model": "tigerapi.category",
+  "pk": 2,
+  "fields":{
+    "name_of_category":"Fitness"
+  }
+},
+
+
+{
+  "model": "tigerapi.category",
+  "pk": 3,
+  "fields":{
+    "name_of_category":"Sleep"
+  }
+},
+
+
+{
+  "model": "tigerapi.category",
+  "pk": 4,
+  "fields":{
+    "name_of_category":"Mental Health"
+  }
+}
+]

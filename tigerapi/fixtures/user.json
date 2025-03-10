@@ -1,0 +1,19 @@
+[{
+  "model": "tigerapi.user",
+  "pk": 1,
+  "fields":{
+    "user_name":"Abbers",
+    "bio":"Love tracking and stacking habits."
+  }
+},
+
+
+{
+  "model": "tigerapi.user",
+  "pk": 2,
+  "fields":{
+    "user_name":"Nick Cave",
+    "bio":"Balcony Man"
+  }
+}
+]

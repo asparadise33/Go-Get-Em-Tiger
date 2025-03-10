@@ -1,0 +1,9 @@
+[{
+  "model": "tigerapi.habitcategory",
+  "pk": 1,
+  "fields":{
+    "habit":1,
+    "category": 4
+  }
+}
+]
