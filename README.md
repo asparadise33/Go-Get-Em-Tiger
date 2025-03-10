@@ -9,7 +9,9 @@ https://documenter.getpostman.com/view/33499624/2sAYk7RiYg
 
 # Tech/Frameworks used, planning materials:
 Python and Django
+ERD:
 https://dbdiagram.io/d/BE-Capstone-67b51f40263d6cf9a0a33704
+Data Flowchart:
 https://mermaid.live/edit#pako:eNpNj8FqwzAMhl_F6NzQexiDNm7ZYaduvczOQY2VxBDbRbEpo_Td6yYpRCf93_-B0B2aYAhKaIdwa3rkKH6l9iLPTp1H4loUxafYq-_QWV8vzcQqdaLOjjE7M95PWCqJY38JyGbh1cznIMVHUVRMGOlFD-oLLzaKY2BXr4zz1byNFT0Rmq2kgVYVbMARO7Qmf3F_EQ2xJ0cayrwaajENUYP2j6xiiuHn3zdQRk60AQ6p66FscRhzStNVabFjdG_liv4vBLdIjye1bF1H
 
 
