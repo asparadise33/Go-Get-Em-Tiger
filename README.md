@@ -1,5 +1,7 @@
 # Go-Get-Em-Tiger
 BE Capstone Project
+![image](https://github.com/user-attachments/assets/bd12d154-ec59-487e-83c0-4de7aa1b171d)
+
 
 # Who the app is for:
 As a User who loves tracking their habits, creating new goals, and seeing how far they’ve come or motivation to keep going. This is the application for you. User’s can create custom Habits, Titles, Frequencies, Categories.
